@@ -1,0 +1,4 @@
+folder create
+one file create
+then git bash open
+ssh-keygen
